@@ -1,3 +1,13 @@
+# Custom things
+# 
+ram.zip
+DB Documents/
+RAM*/*
+*.zip
+data-raw/RAM*
+*.o
+*.Rproj
+*.so
 # History files
 .Rhistory
 .Rapp.history
